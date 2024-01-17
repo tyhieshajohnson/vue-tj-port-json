@@ -1,0 +1,232 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "heading": "Dystopia",
+      "text": "An E-commerce Website created with mainly with JavaScript",
+      "image": "https://i.ibb.co/T22FnVf/y69zbtwx.png",
+      "deploy": "https://iridescent-sopapillas-8fda24.netlify.app",
+      "github": "https://github.com/tyhieshajohnson/to-Do.List"
+    },
+    {
+      "id": 2,
+      "heading": "To-Do List",
+      "text": "An E-commerce Website created with mainly with JavaScript",
+      "image": "https://i.ibb.co/GWbRZfX/sa3vhfnb.png",
+      "deploy": "https://jazzy-faloodeh-dc62ac.netlify.app/",
+      "github": "https://github.com/tyhieshajohnson/eCommercePage-Dystopia"
+    },
+    {
+      "id": 3,
+      "heading": "Pour Over",
+      "text": "An E-commerce Website created with mainly with JavaScript",
+      "image": "https://i.ibb.co/svrZdxM/i5cl5nbp.png",
+      "deploy": "https://iridescent-zabaione-69c8ce.netlify.app/",
+      "github": "https://github.com/tyhieshajohnson/pour-over.coffeeshop"
+    },
+    {
+      "id": 4,
+      "heading": "Calculator",
+      "text": "An E-commerce Website created with mainly with JavaScript",
+      "image": "https://i.ibb.co/FbGTqRs/Screenshot-2024-01-12-133516.png",
+      "deploy": "https://stellular-fairy-d9fb2b.netlify.app/",
+      "github": "https://github.com/tyhieshajohnson/calculator-html-css-js"
+    },
+    {
+      "id": 5,
+      "heading": "First Portfolio",
+      "text": "An E-commerce Website created with mainly with JavaScript",
+      "image": "https://i.ibb.co/mzbfxhp/Screenshot-2024-01-12-134400.png",
+      "deploy": "https://gentle-haupia-d65c28.netlify.app/",
+      "github": "https://github.com/tyhieshajohnson/portfolioTyhieshaJohnson"
+    },
+    {
+      "id": 6,
+      "heading": "Keyboard",
+      "text": "An E-commerce Website created with mainly with JavaScript",
+      "image": "https://i.ibb.co/CBrDYxv/Screenshot-2024-01-12-134910.png",
+      "deploy": "https://deft-crostata-8f4548.netlify.app/",
+      "github": "https://github.com/tyhieshajohnson/keyboard"
+    }
+  ],
+  "salaam": [
+    {
+      "id": 1,
+      "school": "Harold Cressy High School",
+      "year": "2017",
+      "field": "Matric"
+    },
+    {
+      "id": 2,
+      "school": "University of The Western Cape",
+      "year": "2023",
+      "field": "Bachelor's Degree - B.A Psychology"
+    },
+    {
+      "id": 3,
+      "school": "Life Choices Academy",
+      "year": "2023 - Present",
+      "field": "Coding Bootcamp"
+    },
+    {
+      "id": 1,
+      "title": "Student Counselor",
+      "company": "National Centre for Child Protection",
+      "year": "May 2023 - Present"
+    },
+    {
+      "id": 2,
+      "title": "Social Media Manager - Intern",
+      "company": "Georgen Creative (Pty) Ltd",
+      "year": "March 2022 - June 2023"
+    },
+    {
+      "id": 3,
+      "title": "Social Media Manager - Freelance",
+      "company": "InfluenZArt",
+      "year": "Feb 2023"
+    },
+    {
+      "id": 4,
+      "title": "Retail Sales Associate",
+      "company": "American Swiss Jewelers",
+      "year": "Nov 2020 - Dec 2020"
+    },
+    {
+      "id": 5,
+      "title": "Office Assistant",
+      "company": "Georgen Office (Pty) Ltd",
+      "year": "Mar 2018 - Feb 2020"
+    },
+    {
+      "id": 1,
+      "title": "Student Counsellor",
+      "organization": "National Centre for Child Protection",
+      "cause": "Mental Health",
+      "year": "May 2023"
+    },
+    {
+      "id": 2,
+      "title": "Aid at Hydration Station",
+      "organization": "Two Oceans Marathon",
+      "cause": "Health",
+      "year": "Jan 2017"
+    },
+    {
+      "id": 3,
+      "title": "Student Volunteer",
+      "organization": "Baitul-Ansaar Child & Youth Care Centre",
+      "cause": "Social Services",
+      "year": "Jan 2017"
+    },
+    {
+      "id": 1,
+      "heading": "Technical & Soft Skills",
+      "skill": "Problem Solver"
+    },
+    {
+      "id": 2,
+      "heading": "Technical & Soft Skills",
+      "skill": "Listening & Communication Skills"
+    },
+    {
+      "id": 3,
+      "heading": "Technical & Soft Skills",
+      "skill": "Updated on Industry Trends"
+    },
+    {
+      "id": 4,
+      "heading": "Technical & Soft Skills",
+      "skill": "Team Player"
+    },
+    {
+      "id": 5,
+      "heading": "Technical & Soft Skills",
+      "skill": "Analytical Skills"
+    },
+    {
+      "id": 6,
+      "heading": "Technical & Soft Skills",
+      "skill": "HTML-5, Javascript & CSS"
+    },
+    {
+      "id": 7,
+      "heading": "Technical & Soft Skills",
+      "skill": "Digital Marketing"
+    },
+    {
+      "id": 8,
+      "heading": "Technical & Soft Skills",
+      "skill": "UI/UX"
+    },
+    {
+      "id": 10,
+      "heading": "Technical & Soft Skills",
+      "skill": "Github & Git"
+    },
+    {
+      "id": 11,
+      "heading": "Technical & Soft Skills",
+      "skill": "Figma"
+    },
+    {
+      "id": 12,
+      "heading": "Technical & Soft Skills",
+      "skill": "Bootstrap Framework"
+    },
+    {
+      "id": 13,
+      "heading": "Technical & Soft Skills",
+      "skill": "Vue.js Framework"
+    },
+    {
+      "id": 13,
+      "heading": "Technical & Soft Skills",
+      "skill": "Web Design"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": 1,
+      "heading": "Testimonials",
+      "name": "Matthew Brown - Lecturer",
+      "message": "Tyhiesha is a hard working and dedicated individual. Her attitude shows through her dedication and creativity. She is an amazing team player and always shows consistency",
+      "image": "https://i.ibb.co/znGwT72/matthew-removebg-preview-1.png"
+    },
+    {
+      "id": 2,
+      "heading": "Testimonials",
+      "name": "Candice Amon - Manager",
+      "message": "Tyhiesha Johnson is an individual who shows up earlier then asked, works hard and carries herself in a polite, respectable manner. Tyhiesha always presents herself with levelheadedness and grace. She always takes time to spend with other students when they do not understand topics in class.",
+      "image": "https://i.ibb.co/KyhmX2Z/candice-2022-removebg-preview.png"
+    },
+    {
+      "id": 3,
+      "heading": "Testimonials",
+      "name": "Natasha George - Manager",
+      "message": "Ty consistently delivers outstanding results with detailed, refined, and high-quality work that exceeds expectations. We highly recommend working with Ty and look forward to future collaborations.",
+      "image": "https://i.ibb.co/xfQTn9F/1685355686011-removebg-preview.png"
+    },
+    {
+      "id": 4,
+      "heading": "Testimonials",
+      "name": "Seth Tobias - Collegue",
+      "message": "Tyhiesha Johnson's genuine personality creates an inviting atmosphere, fostering open communication. Her commitment to improvement reflects high standards and unwavering determination, showcasing excellence in all she does. Tyhiesha's ability to understand diverse perspectives highlights her exceptional qualities as an individual.",
+      "image": "https://i.ibb.co/1nGtr39/LC-Headshot2-removebg-preview.png"
+    },
+    {
+      "id": 5,
+      "heading": "Testimonials",
+      "name": "Zubaidah Isaacs - Collegue",
+      "message": "Tyhiesha Johnson has good leadership skills. She is dedicated and commited to her work. Being acquainted with her made me realize that hard work always pays off and what you put in is what you get out.",
+      "image": "https://i.ibb.co/KWc72hD/20231009-134246-removebg-preview.png"
+    },
+    {
+      "id": 6,
+      "heading": "Testimonials",
+      "name": "Ntando Nokilana - Collegue",
+      "message": "Tyhiesha is an exceptionally determined and hardworking individual. Her unwavering commitment to tasks and her impressive ability to overcome challenges is truly remarkable.",
+      "image": "https://i.ibb.co/TB5MmN1/IMG-6929-removebg-preview.png"
+    }
+  ]
+}
