@@ -1,0 +1,24 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "heading": "Home Page",
+        "text": "This Better Work"
+      }
+    ],
+    "resume": [
+      {
+        "id": 1,
+        "heading": "Home Page",
+        "text": "This Better Work"
+      }
+    
+    ],
+    "testimonial": [
+        {
+          "id": 1,
+          "heading": "Home Page",
+          "text": "This Better Work"
+        }
+    ]
+  }
