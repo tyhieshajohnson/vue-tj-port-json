@@ -120,69 +120,14 @@
       "year": "Jan 2017"
     },
     {
-      "id": 1,
-      "heading": "Technical & Soft Skills",
-      "skill": "Problem Solver"
-    },
-    {
-      "id": 2,
-      "heading": "Technical & Soft Skills",
-      "skill": "Listening & Communication Skills"
-    },
-    {
-      "id": 3,
-      "heading": "Technical & Soft Skills",
-      "skill": "Updated on Industry Trends"
-    },
-    {
       "id": 4,
-      "heading": "Technical & Soft Skills",
-      "skill": "Team Player"
+      "heading": "Soft Skills",
+      "skill": "Problem Solver, Listening & Communication Skills, Updated on Industry Trends, Team Player and Analytical Skills"
     },
     {
       "id": 5,
-      "heading": "Technical & Soft Skills",
-      "skill": "Analytical Skills"
-    },
-    {
-      "id": 6,
-      "heading": "Technical & Soft Skills",
-      "skill": "HTML-5, Javascript & CSS"
-    },
-    {
-      "id": 7,
-      "heading": "Technical & Soft Skills",
-      "skill": "Digital Marketing"
-    },
-    {
-      "id": 8,
-      "heading": "Technical & Soft Skills",
-      "skill": "UI/UX"
-    },
-    {
-      "id": 10,
-      "heading": "Technical & Soft Skills",
-      "skill": "Github & Git"
-    },
-    {
-      "id": 11,
-      "heading": "Technical & Soft Skills",
-      "skill": "Figma"
-    },
-    {
-      "id": 12,
-      "heading": "Technical & Soft Skills",
-      "skill": "Bootstrap Framework"
-    },
-    {
-      "id": 13,
-      "heading": "Technical & Soft Skills",
-      "skill": "Vue.js Framework"
-    },
-    {
-      "id": 14,
-      "heading": "Technical & Soft Skills",
-      "skill": "Web Design"
+      "heading": "Technical Skills",
+      "skill": "HTML-5, Javascript & CSS, Digital Marketing, UI/UX, Github & Git, Figma, Bootstrap Framework, Vue.js Framework and Web Design"
     }
   ],
   "testimonial": [
