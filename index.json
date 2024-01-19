@@ -49,150 +49,142 @@
       "github": "https://github.com/tyhieshajohnson/keyboard"
     }
   ],
-  "resume": {
-    "education": [
-      {
-        "id": 1,
-        "school": "Harold Cressy High School",
-        "year": "2017",
-        "field": "Matric"
-      },
-      {
-        "id": 2,
-        "school": "University of The Western Cape",
-        "year": "2023",
-        "field": "Bachelor's Degree - B.A Psychology"
-      },
-      {
-        "id": 3,
-        "school": "Life Choices Academy",
-        "year": "2023 - Present",
-        "field": "Coding Bootcamp"
-      }
-    ],
-    "experience": [
-      {
-        "id": 1,
-        "title": "Student Counselor",
-        "company": "National Centre for Child Protection",
-        "year": "May 2023 - Present"
-      },
-      {
-        "id": 2,
-        "title": "Social Media Manager - Intern",
-        "company": "Georgen Creative (Pty) Ltd",
-        "year": "March 2022 - June 2023"
-      },
-      {
-        "id": 3,
-        "title": "Social Media Manager - Freelance",
-        "company": "InfluenZArt",
-        "year": "Feb 2023"
-      },
-      {
-        "id": 4,
-        "title": "Retail Sales Associate",
-        "company": "American Swiss Jewelers",
-        "year": "Nov 2020 - Dec 2020"
-      },
-      {
-        "id": 5,
-        "title": "Office Assistant",
-        "company": "Georgen Office (Pty) Ltd",
-        "year": "Mar 2018 - Feb 2020"
-      }
-    ],
-    "volunteer": [
-      {
-        "id": 1,
-        "title": "Student Counsellor",
-        "organization": "National Centre for Child Protection",
-        "cause": "Mental Health",
-        "year": "May 2023"
-      },
-      {
-        "id": 2,
-        "title": "Aid at Hydration Station",
-        "organization": "Two Oceans Marathon",
-        "cause": "Health",
-        "year": "Jan 2017"
-      },
-      {
-        "id": 3,
-        "title": "Student Volunteer",
-        "organization": "Baitul-Ansaar Child & Youth Care Centre",
-        "cause": "Social Services",
-        "year": "Jan 2017"
-      }
-    ],
-    "skills": [
-      {
-        "id": 1,
-        "heading": "Technical & Soft Skills",
-        "skill": "Problem Solver"
-      },
-      {
-        "id": 2,
-        "heading": "Technical & Soft Skills",
-        "skill": "Listening & Communication Skills"
-      },
-      {
-        "id": 3,
-        "heading": "Technical & Soft Skills",
-        "skill": "Updated on Industry Trends"
-      },
-      {
-        "id": 4,
-        "heading": "Technical & Soft Skills",
-        "skill": "Team Player"
-      },
-      {
-        "id": 5,
-        "heading": "Technical & Soft Skills",
-        "skill": "Analytical Skills"
-      },
-      {
-        "id": 6,
-        "heading": "Technical & Soft Skills",
-        "skill": "HTML-5, Javascript & CSS"
-      },
-      {
-        "id": 7,
-        "heading": "Technical & Soft Skills",
-        "skill": "Digital Marketing"
-      },
-      {
-        "id": 8,
-        "heading": "Technical & Soft Skills",
-        "skill": "UI/UX"
-      },
-      {
-        "id": 10,
-        "heading": "Technical & Soft Skills",
-        "skill": "Github & Git"
-      },
-      {
-        "id": 11,
-        "heading": "Technical & Soft Skills",
-        "skill": "Figma"
-      },
-      {
-        "id": 12,
-        "heading": "Technical & Soft Skills",
-        "skill": "Bootstrap Framework"
-      },
-      {
-        "id": 13,
-        "heading": "Technical & Soft Skills",
-        "skill": "Vue.js Framework"
-      },
-      {
-        "id": 14,
-        "heading": "Technical & Soft Skills",
-        "skill": "Web Design"
-      }
-    ]
-  },
+  "resume": [
+    {
+      "id": 1,
+      "school": "Harold Cressy High School",
+      "year": "2017",
+      "field": "Matric"
+    },
+    {
+      "id": 2,
+      "school": "University of The Western Cape",
+      "year": "2023",
+      "field": "Bachelor's Degree - B.A Psychology"
+    },
+    {
+      "id": 3,
+      "school": "Life Choices Academy",
+      "year": "2023 - Present",
+      "field": "Coding Bootcamp"
+    },
+    {
+      "id": 1,
+      "title": "Student Counselor",
+      "company": "National Centre for Child Protection",
+      "year": "May 2023 - Present"
+    },
+    {
+      "id": 2,
+      "title": "Social Media Manager - Intern",
+      "company": "Georgen Creative (Pty) Ltd",
+      "year": "March 2022 - June 2023"
+    },
+    {
+      "id": 3,
+      "title": "Social Media Manager - Freelance",
+      "company": "InfluenZArt",
+      "year": "Feb 2023"
+    },
+    {
+      "id": 4,
+      "title": "Retail Sales Associate",
+      "company": "American Swiss Jewelers",
+      "year": "Nov 2020 - Dec 2020"
+    },
+    {
+      "id": 5,
+      "title": "Office Assistant",
+      "company": "Georgen Office (Pty) Ltd",
+      "year": "Mar 2018 - Feb 2020"
+    },
+    {
+      "id": 1,
+      "title": "Student Counsellor",
+      "organization": "National Centre for Child Protection",
+      "cause": "Mental Health",
+      "year": "May 2023"
+    },
+    {
+      "id": 2,
+      "title": "Aid at Hydration Station",
+      "organization": "Two Oceans Marathon",
+      "cause": "Health",
+      "year": "Jan 2017"
+    },
+    {
+      "id": 3,
+      "title": "Student Volunteer",
+      "organization": "Baitul-Ansaar Child & Youth Care Centre",
+      "cause": "Social Services",
+      "year": "Jan 2017"
+    },
+    {
+      "id": 1,
+      "heading": "Technical & Soft Skills",
+      "skill": "Problem Solver"
+    },
+    {
+      "id": 2,
+      "heading": "Technical & Soft Skills",
+      "skill": "Listening & Communication Skills"
+    },
+    {
+      "id": 3,
+      "heading": "Technical & Soft Skills",
+      "skill": "Updated on Industry Trends"
+    },
+    {
+      "id": 4,
+      "heading": "Technical & Soft Skills",
+      "skill": "Team Player"
+    },
+    {
+      "id": 5,
+      "heading": "Technical & Soft Skills",
+      "skill": "Analytical Skills"
+    },
+    {
+      "id": 6,
+      "heading": "Technical & Soft Skills",
+      "skill": "HTML-5, Javascript & CSS"
+    },
+    {
+      "id": 7,
+      "heading": "Technical & Soft Skills",
+      "skill": "Digital Marketing"
+    },
+    {
+      "id": 8,
+      "heading": "Technical & Soft Skills",
+      "skill": "UI/UX"
+    },
+    {
+      "id": 10,
+      "heading": "Technical & Soft Skills",
+      "skill": "Github & Git"
+    },
+    {
+      "id": 11,
+      "heading": "Technical & Soft Skills",
+      "skill": "Figma"
+    },
+    {
+      "id": 12,
+      "heading": "Technical & Soft Skills",
+      "skill": "Bootstrap Framework"
+    },
+    {
+      "id": 13,
+      "heading": "Technical & Soft Skills",
+      "skill": "Vue.js Framework"
+    },
+    {
+      "id": 14,
+      "heading": "Technical & Soft Skills",
+      "skill": "Web Design"
+    }
+  ],
   "testimonial": [
     {
       "id": 1,
