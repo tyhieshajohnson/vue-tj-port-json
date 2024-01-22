@@ -72,62 +72,72 @@
       "id": 1,
       "title": "Student Counselor",
       "company": "National Centre for Child Protection",
-      "year": "May 2023 - Present"
+      "year": "May 2023 - Present",
+      "type": "work_experience"
     },
     {
       "id": 2,
       "title": "Social Media Manager - Intern",
       "company": "Georgen Creative (Pty) Ltd",
-      "year": "March 2022 - June 2023"
+      "year": "March 2022 - June 2023",
+      "type": "work_experience"
     },
     {
       "id": 3,
       "title": "Social Media Manager - Freelance",
       "company": "InfluenZArt",
-      "year": "Feb 2023"
+      "year": "Feb 2023",
+      "type": "work_experience"
     },
     {
       "id": 4,
       "title": "Retail Sales Associate",
       "company": "American Swiss Jewelers",
-      "year": "Nov 2020 - Dec 2020"
+      "year": "Nov 2020 - Dec 2020",
+      "type": "work_experience"
     },
     {
       "id": 5,
       "title": "Office Assistant",
       "company": "Georgen Office (Pty) Ltd",
-      "year": "Mar 2018 - Feb 2020"
+      "year": "Mar 2018 - Feb 2020",
+      "type": "work_experience"
     },
     {
       "id": 1,
       "title": "Student Counsellor",
       "organization": "National Centre for Child Protection",
       "cause": "Mental Health",
-      "year": "May 2023"
+      "year": "May 2023",
+      "type": "work_experience"
     },
     {
       "id": 2,
       "title": "Aid at Hydration Station",
       "organization": "Two Oceans Marathon",
       "cause": "Health",
-      "year": "Jan 2017"
+      "year": "Jan 2017",
+      "type": "work_experience"
     },
     {
       "id": 3,
       "title": "Student Volunteer",
       "organization": "Baitul-Ansaar Child & Youth Care Centre",
       "cause": "Social Services",
-      "year": "Jan 2017"
+      "year": "Jan 2017",
+      "type": "work_experience"
     },
     {
       "id": 4,
       "heading": "Soft Skills",
-      "skill": "Problem Solver, Listening & Communication Skills, Updated on Industry Trends, Team Player and Analytical Skills"
+      "skill": "Problem Solver, Listening & Communication Skills, Updated on Industry Trends, Team Player and Analytical Skills",
+      "skills": "skill"
     },
     {
       "id": 5,
       "heading": "Technical Skills",
-      "skill": "HTML-5, Javascript & CSS, Digital Marketing, UI/UX, Github & Git, Figma, Bootstrap Framework, Vue.js Framework and Web Design"
+      "skill": "HTML-5, Javascript & CSS, Digital Marketing, UI/UX, Github & Git, Figma, Bootstrap Framework, Vue.js Framework and Web Design",
+      "skills": "skill"
     }
   ],
   "testimonial": [
