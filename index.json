@@ -6,7 +6,8 @@
       "text": "An E-commerce Website created mainly with JavaScript",
       "image": "https://i.ibb.co/T22FnVf/y69zbtwx.png",
       "deploy": "https://iridescent-sopapillas-8fda24.netlify.app",
-      "github": "https://github.com/tyhieshajohnson/to-Do.List"
+      "github": "https://github.com/tyhieshajohnson/to-Do.List",
+      "description": "blah blah"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "text": "An E-commerce Website created mainly with JavaScript",
       "image": "https://i.ibb.co/GWbRZfX/sa3vhfnb.png",
       "deploy": "https://jazzy-faloodeh-dc62ac.netlify.app/",
-      "github": "https://github.com/tyhieshajohnson/eCommercePage-Dystopia"
+      "github": "https://github.com/tyhieshajohnson/eCommercePage-Dystopia",
+      "description": "blah blah"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "text": "An E-commerce Website created mainly with JavaScript",
       "image": "https://i.ibb.co/svrZdxM/i5cl5nbp.png",
       "deploy": "https://iridescent-zabaione-69c8ce.netlify.app/",
-      "github": "https://github.com/tyhieshajohnson/pour-over.coffeeshop"
+      "github": "https://github.com/tyhieshajohnson/pour-over.coffeeshop",
+      "description": "blah blah"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "text": "An E-commerce Website created mainly with JavaScript",
       "image": "https://i.ibb.co/FbGTqRs/Screenshot-2024-01-12-133516.png",
       "deploy": "https://stellular-fairy-d9fb2b.netlify.app/",
-      "github": "https://github.com/tyhieshajohnson/calculator-html-css-js"
+      "github": "https://github.com/tyhieshajohnson/calculator-html-css-js",
+      "description": "blah blah"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "text": "An E-commerce Website created mainly with JavaScript",
       "image": "https://i.ibb.co/mzbfxhp/Screenshot-2024-01-12-134400.png",
       "deploy": "https://gentle-haupia-d65c28.netlify.app/",
-      "github": "https://github.com/tyhieshajohnson/portfolioTyhieshaJohnson"
+      "github": "https://github.com/tyhieshajohnson/portfolioTyhieshaJohnson",
+      "description": "blah blah"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "text": "An E-commerce Website created mainly with JavaScript",
       "image": "https://i.ibb.co/CBrDYxv/Screenshot-2024-01-12-134910.png",
       "deploy": "https://deft-crostata-8f4548.netlify.app/",
-      "github": "https://github.com/tyhieshajohnson/keyboard"
+      "github": "https://github.com/tyhieshajohnson/keyboard",
+      "description": "blah blah"
     }
   ],
   "resume": [
