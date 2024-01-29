@@ -58,19 +58,21 @@
   "resume": [
     {
       "id": 1,
-      "school-heading": "Education",
+      "school-heading": "Secondary Education",
       "school": "Harold Cressy High School",
       "school-year": "2017",
       "school-field": "Matric"
     },
     {
       "id": 2,
+      "school-heading": "Tertiary Education",
       "school": "University of The Western Cape",
       "school-year": "2023",
       "school-field": "Bachelor's Degree - B.A Psychology"
     },
     {
       "id": 3,
+      "school-heading": "Courses",
       "school": "Life Choices Academy",
       "school-year": "2023 - Present",
       "school-field": "Coding Bootcamp"
