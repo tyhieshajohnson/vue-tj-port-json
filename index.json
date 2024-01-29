@@ -59,20 +59,20 @@
     {
       "id": 1,
       "school": "Harold Cressy High School",
-      "year": "2017",
-      "field": "Matric"
+      "school-year": "2017",
+      "school-field": "Matric"
     },
     {
       "id": 2,
       "school": "University of The Western Cape",
-      "year": "2023",
+      "school-year": "2023",
       "field": "Bachelor's Degree - B.A Psychology"
     },
     {
       "id": 3,
       "school": "Life Choices Academy",
-      "year": "2023 - Present",
-      "field": "Coding Bootcamp"
+      "school-year": "2023 - Present",
+      "school-field": "Coding Bootcamp"
     },
     {
       "id": 1,
