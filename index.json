@@ -79,62 +79,56 @@
     },
     {
       "id": 1,
-      "title": "Student Counselor",
-      "company": "National Centre for Child Protection",
-      "year": "May 2023 - Present",
-      "type": "work_experience"
+      "workHeading": "Experience",
+      "workTitle": "Student Counselor",
+      "workCompany": "National Centre for Child Protection",
+      "workYear": "May 2023 - Present"
     },
     {
       "id": 2,
-      "title": "Social Media Manager - Intern",
-      "company": "Georgen Creative (Pty) Ltd",
-      "year": "March 2022 - June 2023",
-      "type": "work_experience"
+      "workTitle": "Social Media Manager - Intern",
+      "workCompany": "Georgen Creative (Pty) Ltd",
+      "companyYear": "March 2022 - June 2023"
     },
     {
       "id": 3,
-      "title": "Social Media Manager - Freelance",
-      "company": "InfluenZArt",
-      "year": "Feb 2023",
-      "type": "work_experience"
+      "workTitle": "Social Media Manager - Freelance",
+      "workCompany": "InfluenZArt",
+      "workYear": "Feb 2023"
     },
     {
       "id": 4,
-      "title": "Retail Sales Associate",
-      "company": "American Swiss Jewelers",
-      "year": "Nov 2020 - Dec 2020",
-      "type": "work_experience"
+      "workTitle": "Retail Sales Associate",
+      "workCompany": "American Swiss Jewelers",
+      "workYear": "Nov 2020 - Dec 2020"
     },
     {
       "id": 5,
-      "title": "Office Assistant",
-      "company": "Georgen Office (Pty) Ltd",
-      "year": "Mar 2018 - Feb 2020",
-      "type": "work_experience"
+      "workTitle": "Office Assistant",
+      "workCompany": "Georgen Office (Pty) Ltd",
+      "workYear": "Mar 2018 - Feb 2020"
     },
     {
       "id": 1,
-      "title": "Student Counsellor",
-      "organization": "National Centre for Child Protection",
-      "cause": "Mental Health",
-      "year": "May 2023",
-      "type": "work_experience"
+      "volunteerHeading": "Volunteer Work",
+      "volunteerTitle": "Student Counsellor",
+      "volunteerOrganization": "National Centre for Child Protection",
+      "volunteerCause": "Mental Health",
+      "volunteerYear": "May 2023"
     },
     {
       "id": 2,
-      "title": "Aid at Hydration Station",
-      "organization": "Two Oceans Marathon",
-      "cause": "Health",
-      "year": "Jan 2017",
-      "type": "work_experience"
+      "volunteerTitle": "Aid at Hydration Station",
+      "volunteerOrganization": "Two Oceans Marathon",
+      "volunteerCause": "Health",
+      "volunteerYear": "Jan 2017"
     },
     {
       "id": 3,
-      "title": "Student Volunteer",
-      "organization": "Baitul-Ansaar Child & Youth Care Centre",
-      "cause": "Social Services",
-      "year": "Jan 2017",
-      "type": "work_experience"
+      "volunteerTitle": "Student Volunteer",
+      "volunteerOrganization": "Baitul-Ansaar Child & Youth Care Centre",
+      "volunteerCause": "Social Services",
+      "volunteerYear": "Jan 2017"
     },
     {
       "id": 4,
