@@ -20,12 +20,12 @@
     },
     {
       "id": 3,
-      "heading": "Pour Over",
-      "text": "A Company Website",
+      "heading": "She Invests",
+      "text": "Capstone Project",
       "image": "https://i.ibb.co/svrZdxM/i5cl5nbp.png",
-      "deploy": "https://iridescent-zabaione-69c8ce.netlify.app/",
-      "github": "https://github.com/tyhieshajohnson/pour-over.coffeeshop",
-      "description": "Building a basic company ecommerce website with JavaScript has been a pivotal lesson in my coding journey. While the focus was on design and UI/UX skills, I utilized Canva and had a basic introduction to Photoshop. This project enhanced my ability to create visually appealing and user-friendly interfaces, emphasizing the importance of a seamless user experience. Integrating JavaScript functionalities into the design allowed me to grasp the intersection of coding and design, a valuable skill set in modern web development."
+      "deploy": "https://sheinvests-app.web.app/",
+      "github": "https://github.com/tyhieshajohnson/sheinvests-app",
+      "description": "The capstone project is a Vue.js-based prediction market application developed using JavaScript, Express, MySQL, bcrypt, and hosted on Clever Cloud. Utilizing cookies for user credentials and product cart storage, with sessions or local storage for enhanced user experience, the project was completed in three weeks. This hands-on experience significantly enhanced my skills as a beginner, providing valuable insights into full-stack development, database management, and deploying applications on cloud platforms."
     },
     {
       "id": 4,
