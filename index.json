@@ -79,31 +79,24 @@
     },
     {
       "id": 1,
-      "workHeading": "Experience",
-      "workTitle": "Student Counselor",
-      "workCompany": "National Centre for Child Protection",
-      "workYear": "May 2023 - Present"
-    },
-    {
-      "id": 2,
       "workTitle": "Social Media Manager - Intern",
       "workCompany": "Georgen Creative (Pty) Ltd",
       "workYear": "March 2022 - June 2023"
     },
     {
-      "id": 3,
+      "id": 2,
       "workTitle": "Social Media Manager - Freelance",
       "workCompany": "InfluenZArt",
       "workYear": "Feb 2023"
     },
     {
-      "id": 4,
+      "id": 3,
       "workTitle": "Retail Sales Associate",
       "workCompany": "American Swiss Jewelers",
       "workYear": "Nov 2020 - Dec 2020"
     },
     {
-      "id": 5,
+      "id": 4,
       "workTitle": "Office Assistant",
       "workCompany": "Georgen Office (Pty) Ltd",
       "workYear": "Mar 2018 - Feb 2020"
@@ -149,42 +142,42 @@
       "heading": "Testimonials",
       "name": "Matthew Brown - Lecturer",
       "message": "Tyhiesha is a hardworking and dedicated individual. Her attitude shows through her dedication and creativity. She is an amazing team player and always shows consistency",
-      "image": "https://i.ibb.co/znGwT72/matthew-removebg-preview-1.png"
+      "image": "https://i.ibb.co/JC2vqTh/matthew-port.webp"
     },
     {
       "id": 2,
       "heading": "Testimonials",
       "name": "Candice Amon - Manager",
       "message": "Tyhiesha Johnson is an individual who shows up earlier than asked, works hard, and carries herself in a polite, respectable manner. Tyhiesha always presents herself with levelheadedness and grace. She always takes time to spend with other students when they do not understand topics in class.",
-      "image": "https://i.ibb.co/KyhmX2Z/candice-2022-removebg-preview.png"
+      "image": "https://i.ibb.co/xgpKwT1/candice-port.webp"
     },
     {
       "id": 3,
       "heading": "Testimonials",
       "name": "Natasha George - Manager",
       "message": "Ty consistently delivers outstanding results with detailed, refined, and high-quality work that exceeds expectations. We highly recommend working with Ty and look forward to future collaborations.",
-      "image": "https://i.ibb.co/xfQTn9F/1685355686011-removebg-preview.png"
+      "image": "https://i.ibb.co/H7sG8Qj/natasha-port.jpg"
     },
     {
       "id": 4,
       "heading": "Testimonials",
       "name": "Seth Tobias - Colleague",
       "message": "Tyhiesha Johnson's genuine personality creates an inviting atmosphere, fostering open communication. Her commitment to improvement reflects high standards and unwavering determination, showcasing excellence in all she does. Tyhiesha's ability to understand diverse perspectives highlights her exceptional qualities as an individual.",
-      "image": "https://i.ibb.co/1nGtr39/LC-Headshot2-removebg-preview.png"
+      "image": "https://i.ibb.co/qnHBQyp/seth-port.jpg"
     },
     {
       "id": 5,
       "heading": "Testimonials",
       "name": "Zubaidah Isaacs - Colleague",
       "message": "Tyhiesha Johnson has good leadership skills. She is dedicated and committed to her work. Being acquainted with her made me realize that hard work always pays off and what you put in is what you get out.",
-      "image": "https://i.ibb.co/KWc72hD/20231009-134246-removebg-preview.png"
+      "image": "https://i.ibb.co/30DwMVt/zubaidah-portt.jpg"
     },
     {
       "id": 6,
       "heading": "Testimonials",
-      "name": "Ntando Nokilana - Colleague",
+      "name": "Shaheem Salie - Colleague",
       "message": "Tyhiesha is an exceptionally determined and hardworking individual. Her unwavering commitment to tasks and her impressive ability to overcome challenges is truly remarkable.",
-      "image": "https://i.ibb.co/TB5MmN1/IMG-6929-removebg-preview.png"
+      "image": "https://i.ibb.co/BNL05M7/20231009-140910.jpg"
     }
   ]
 }
