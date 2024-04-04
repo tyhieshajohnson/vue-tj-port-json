@@ -7,7 +7,7 @@
       "image": "https://i.ibb.co/PWNp4vK/Screenshot-2024-04-03-154031.png",
       "deploy": "https://iridescent-sopapillas-8fda24.netlify.app",
       "github": "https://github.com/tyhieshajohnson/to-Do.List",
-      "description": "Completing this JavaScript End Of Module Project significantly enhanced my coding proficiency, as evidenced by my adeptness in crafting responsive navigation bars, dynamic product displays, and polished footers. Through mastering responsive design, user data handling, sorting, filtering, and CRUD system implementation, I have developed into a well-rounded coder capable of delivering comprehensive and user-friendly web experiences."
+      "description": "Completing the JavaScript project improved my coding skills, showing I can create responsive navigation bars, dynamic product displays, and polished footers, while also mastering responsive design, user data handling, sorting, filtering, and CRUD system implementation, making me capable of delivering user-friendly web experiences."
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "image": "https://i.ibb.co/ZTrQdmH/Screenshot-2024-04-04-091353.png",
       "deploy": "https://sheinvests-app.web.app/",
       "github": "https://github.com/tyhieshajohnson/sheinvests-app",
-      "description": "The capstone project, a Vue.js-based prediction market application, was developed using JavaScript, Express, MySQL, bcrypt, and hosted on Clever Cloud, featuring cookie-based user credential management and product cart storage, completed in three weeks with sessions or local storage for improved user experience. This hands-on experience, as a beginner, provided valuable insights into full-stack development, database management, and deploying applications on cloud platforms, significantly enhancing my skills."
+      "description": "The Vue.js-based prediction market app, developed with JavaScript, Express, MySQL, bcrypt, hosted on Clever Cloud, with cookie-based user credential management and product cart storage, completed in three weeks, greatly improved my full-stack development, database management, and cloud deployment skills as a beginner."
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "image": "https://i.ibb.co/FbGTqRs/Screenshot-2024-01-12-133516.png",
       "deploy": "https://stellular-fairy-d9fb2b.netlify.app/",
       "github": "https://github.com/tyhieshajohnson/calculator-html-css-js",
-      "description": "Developing a basic calculator with JavaScript highlighted the significance of clean code and function utilization, fostering efficient code structuring for readability and maintainability. By decomposing calculator functionalities into distinct functions, I improved code organization and reusability, reinforcing the importance of modular coding practices and laying the foundation for scalable and maintainable JavaScript projects."
+      "description": "Creating a JavaScript calculator emphasized clean code and function usage, improving code organization, reusability, and laying the groundwork for scalable and maintainable projects through modular coding practices."
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "image": "https://i.ibb.co/GWbRZfX/sa3vhfnb.png",
       "deploy": "https://jazzy-faloodeh-dc62ac.netlify.app/",
       "github": "https://github.com/tyhieshajohnson/eCommercePage-Dystopia",
-      "description": "Developing a basic to-do list using JavaScript has been instrumental in honing fundamental coding skills, particularly in DOM manipulation for dynamic task management, thus bolstering my understanding of frontend development. Through implementing event listeners for user interactions and integrating local storage for data persistence, I've gained valuable insights into handling user input and managing data effectively, solidifying my JavaScript foundation and preparing me for more advanced coding endeavors."
+      "description": "Building a JavaScript to-do list strengthened my fundamental coding skills, particularly in DOM manipulation for dynamic task management, enhancing my understanding of frontend development, and reinforcing my JavaScript foundation for future coding challenges."
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "image": "https://i.ibb.co/VqHs9w2/Screenshot-2024-04-04-092016.png",
       "deploy": "https://gentle-haupia-d65c28.netlify.app/",
       "github": "https://github.com/tyhieshajohnson/portfolioTyhieshaJohnson",
-      "description": "Developing my inaugural portfolio website with Bootstrap, HTML, and CSS, while refining design and UI/UX skills via Canva, was a pivotal learning journey. This project provided insights into crafting visually appealing and user-friendly interfaces, where leveraging Bootstrap facilitated a streamlined development process and integrating Canva-designed elements enhanced the overall aesthetic, emphasizing the importance of aligning code and design for a polished and engaging website, marking a notable advancement in my coding and design proficiency."
+      "description": "Creating my first portfolio website using Bootstrap, HTML, and CSS, along with honing design skills through Canva, was a significant learning experience that underscored the importance of aligning code and design for a polished and engaging website, marking a notable advancement in my coding and design proficiency."
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "image": "https://i.ibb.co/CBrDYxv/Screenshot-2024-01-12-134910.png",
       "deploy": "https://deft-crostata-8f4548.netlify.app/",
       "github": "https://github.com/tyhieshajohnson/keyboard",
-      "description": "Developing my keyboard using HTML and CSS as a student honed my frontend development skills, focusing on structuring and styling elements for visually appealing interfaces. This hands-on project not only deepened my understanding of HTML and CSS but also reinforced responsive design principles, serving as a foundational experience for more advanced web development concepts."
+      "description": "Creating a keyboard using HTML and CSS as a student sharpened my frontend development skills, emphasizing structured and styled elements for visually appealing interfaces, while reinforcing responsive design principles, serving as a foundational experience for advanced web development."
     }
   ],
   "resume": [
