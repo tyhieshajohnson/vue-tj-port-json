@@ -148,42 +148,48 @@
       "heading": "Testimonials",
       "name": "Matthew Brown - Lecturer",
       "message": "Tyhiesha is a hardworking and dedicated individual. Her attitude shows through her dedication and creativity. She is an amazing team player and always shows consistency",
-      "image": "https://i.ibb.co/JC2vqTh/matthew-port.webp"
+      "image": "https://i.ibb.co/JC2vqTh/matthew-port.webp",
+      "reference": "+27 71 563 4139"
     },
     {
       "id": 2,
       "heading": "Testimonials",
       "name": "Candice Amon - Manager",
-      "message": "Tyhiesha Johnson is an individual who shows up earlier than asked, works hard, and carries herself in a polite, respectable manner. Tyhiesha always presents herself with levelheadedness and grace. She always takes time to spend with other students when they do not understand topics in class.",
-      "image": "https://i.ibb.co/xgpKwT1/candice-port.webp"
+      "message": "Tyhiesha Johnson consistently arrives early, works diligently, and maintains a respectful demeanor. She demonstrates composure and kindness, readily offering assistance to fellow students struggling with class topics.",
+      "image": "https://i.ibb.co/xgpKwT1/candice-port.webp",
+      "reference": "+27 63 688 1563"
     },
     {
       "id": 3,
       "heading": "Testimonials",
       "name": "Natasha George - Manager",
       "message": "Ty consistently delivers outstanding results with detailed, refined, and high-quality work that exceeds expectations. We highly recommend working with Ty and look forward to future collaborations.",
-      "image": "https://i.ibb.co/H7sG8Qj/natasha-port.jpg"
+      "image": "https://i.ibb.co/H7sG8Qj/natasha-port.jpg",
+      "reference": "+971 55 302 5139"
     },
     {
       "id": 4,
       "heading": "Testimonials",
       "name": "Seth Tobias - Colleague",
-      "message": "Tyhiesha Johnson's genuine personality creates an inviting atmosphere, fostering open communication. Her commitment to improvement reflects high standards and unwavering determination, showcasing excellence in all she does. Tyhiesha's ability to understand diverse perspectives highlights her exceptional qualities as an individual.",
-      "image": "https://i.ibb.co/qnHBQyp/seth-port.jpg"
+      "message": "Tyhiesha Johnson's genuine personality creates an inviting atmosphere, fostering open communication. Her commitment to improvement reflects high standards and unwavering determination, showcasing excellence in all she does.",
+      "image": "https://i.ibb.co/qnHBQyp/seth-port.jpg",
+      "reference": "+27 65 887 9439"
     },
     {
       "id": 5,
       "heading": "Testimonials",
       "name": "Zubaidah Isaacs - Colleague",
       "message": "Tyhiesha Johnson has good leadership skills. She is dedicated and committed to her work. Being acquainted with her made me realize that hard work always pays off and what you put in is what you get out.",
-      "image": "https://i.ibb.co/30DwMVt/zubaidah-portt.jpg"
+      "image": "https://i.ibb.co/30DwMVt/zubaidah-portt.jpg",
+      "reference": "+27 67 978 2069"
     },
     {
       "id": 6,
       "heading": "Testimonials",
       "name": "Shaheem Salie - Colleague",
       "message": "Tyhiesha is an exceptionally determined and hardworking individual. Her unwavering commitment to tasks and her impressive ability to overcome challenges is truly remarkable.",
-      "image": "https://i.ibb.co/BNL05M7/20231009-140910.jpg"
+      "image": "https://i.ibb.co/BNL05M7/20231009-140910.jpg",
+      "reference": "+27 67 810 3384"
     }
   ]
 }
