@@ -38,12 +38,12 @@
     },
     {
       "id": 5,
-      "heading": "First Portfolio",
-      "text": "Built with Bootstrap and basic HTML & JavaScript",
-      "image": "https://i.ibb.co/VqHs9w2/Screenshot-2024-04-04-092016.png",
-      "deploy": "https://gentle-haupia-d65c28.netlify.app/",
-      "github": "https://github.com/tyhieshajohnson/portfolioTyhieshaJohnson",
-      "description": "Creating my first portfolio website using Bootstrap, HTML, and CSS, along with honing design skills through Canva, was a significant learning experience that underscored the importance of aligning code and design for a polished and engaging website, marking a notable advancement in my coding and design proficiency."
+      "heading": "Nexus Gym",
+      "text": "Node.js Group Project, I handled frontend. Built with Bootstrap and basic HTML, JavaScript, Node, Thunderclient and Render",
+      "image": "https://i.ibb.co/KVD73yd/Screenshot-2024-04-09-141138.png",
+      "deploy": "https://gym-app-94015.web.app/",
+      "github": "https://github.com/tyhieshajohnson/gym_app",
+      "description": "This project taught me how to communicate effectively with my partner and create a website that suited us both."
     },
     {
       "id": 6,
