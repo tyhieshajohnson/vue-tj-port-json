@@ -2,12 +2,12 @@
   "projects": [
     {
       "id": 1,
-      "heading": "Dystopia",
-      "text": "An E-commerce Website created mainly with JavaScript",
-      "image": "https://i.ibb.co/PWNp4vK/Screenshot-2024-04-03-154031.png",
-      "deploy": "https://iridescent-sopapillas-8fda24.netlify.app",
-      "github": "https://github.com/tyhieshajohnson/to-Do.List",
-      "description": "Completing the JavaScript project improved my coding skills, showing I can create responsive navigation bars, dynamic product displays, and polished footers, while also mastering responsive design, user data handling, sorting, filtering, and CRUD system implementation, making me capable of delivering user-friendly web experiences."
+      "heading": "Grow Game",
+      "text": "A JavaScript Mini Choice Game",
+      "image": "https://i.ibb.co/Jzg5nWh/Screenshot-2024-04-18-160232.png",
+      "deploy": "https://classy-cajeta-c32aa1.netlify.app/",
+      "github": "https://github.com/tyhieshajohnson/gardening-app",
+      "description": "This project taught me the basics of building an interactive web application using HTML, CSS, and JavaScript. I learned how to structure a web page, style elements for both desktop and mobile devices, and add interactivity through event listeners and DOM manipulation. Additionally, I gained familiarity with organizing code into functions and managing state to create a simple game-like experience where users can interact with elements on the page to simulate the growth of a plant."
     },
     {
       "id": 2,
@@ -33,7 +33,7 @@
       "text": "A To-Do List to help you organize your life",
       "image": "https://i.ibb.co/T444891/Screenshot-2024-04-09-160641.png",
       "deploy": "https://jazzy-faloodeh-dc62ac.netlify.app/",
-      "github": "https://github.com/tyhieshajohnson/eCommercePage-Dystopia",
+      "github": "https://github.com/tyhieshajohnson/to-Do.List",
       "description": "Building a JavaScript to-do list strengthened my fundamental coding skills, particularly in DOM manipulation for dynamic task management, enhancing my understanding of frontend development, and reinforcing my JavaScript foundation for future coding challenges."
     },
     {
