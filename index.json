@@ -4,7 +4,7 @@
       "id": 1,
       "heading": "Grow Game",
       "text": "A JavaScript Mini Choice Game",
-      "image": "https://i.ibb.co/Jzg5nWh/Screenshot-2024-04-18-160232.png",
+      "image": "https://i.ibb.co/JdCby0T/Screenshot-2024-04-19-083654.png",
       "deploy": "https://classy-cajeta-c32aa1.netlify.app/",
       "github": "https://github.com/tyhieshajohnson/gardening-app",
       "description": "This project taught me the basics of building an interactive web application using HTML, CSS, and JavaScript. I learned how to structure a web page, style elements for both desktop and mobile devices, and add interactivity through event listeners and DOM manipulation. Additionally, I gained familiarity with organizing code into functions and managing state to create a simple game-like experience where users can interact with elements on the page to simulate the growth of a plant."
