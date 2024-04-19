@@ -13,7 +13,7 @@
       "id": 2,
       "heading": "She Invests",
       "text": "Capstone Project - Prediction Market Website",
-      "image": "https://i.ibb.co/ZTrQdmH/Screenshot-2024-04-04-091353.png",
+      "image": "https://i.ibb.co/xC0pbhY/2.png",
       "deploy": "https://sheinvests-app.web.app/",
       "github": "https://github.com/tyhieshajohnson/sheinvests-app",
       "description": "The Vue.js-based prediction market app, developed with JavaScript, Express, MySQL, bcrypt, hosted on Clever Cloud, with cookie-based user credential management and product cart storage, completed in three weeks, greatly improved my full-stack development, database management, and cloud deployment skills as a beginner."
